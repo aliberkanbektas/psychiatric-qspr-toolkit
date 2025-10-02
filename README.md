@@ -79,5 +79,5 @@ Options:
 
 ## 📄 License
 
-This project is licensed under the (https://github.com/aliberkanbektas/psychiatric-qspr-toolkit/blob/main/LICENSE.txt).
+This project is licensed under the [MIT License](https://github.com/aliberkanbektas/psychiatric-qspr-toolkit/blob/main/LICENSE.txt).
 #

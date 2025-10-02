@@ -63,6 +63,7 @@ Options:
 ├── drugs.csv               # Example input file
 ├── final_data.csv          # Output file (generated)
 ├── requirements.txt        # Dependencies
+├── LICENSE                 # MIT license
 └── README.md               # Documentation
 ```
 

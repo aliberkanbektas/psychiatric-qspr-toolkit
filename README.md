@@ -80,4 +80,8 @@ Options:
 ## 📄 License
 
 This project is licensed under the [MIT License](https://github.com/aliberkanbektas/psychiatric-qspr-toolkit/blob/main/LICENSE.txt).
-#
+
+## Citation
+
+If you use this project, please cite it using the following DOI: 
+[![DOI](https://zenodo.org/badge/1068629608.svg)](https://doi.org/10.5281/zenodo.17252907)
